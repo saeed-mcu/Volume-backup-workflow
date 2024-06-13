@@ -1,4 +1,4 @@
-# Volume-backup-workflow
+# OpenStack Volume Backup Workflow
 
 ![backup](./images/OpenStack_BlockStorage_backup.png)
 
